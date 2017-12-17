@@ -8,8 +8,15 @@ Three of my favorite books are:
 - *Feluda* by Satyajit Ray
 ### Food
 Last night I dreamt about eating in these restaurants: 
-1. Peshwari in ITC Sonar. 
-2. Bohemian  in Ballygunje. 
-3. Karims in Delhi.
+1. **Peshwari** in ITC Sonar. 
+2. **Bohemian**  in Ballygunje. 
+3. **Karims** in Delhi.
 ### Contact
 The best way to get in touch with me is [on email](sghosh30@gmail.com).
+
+Here is `some code` in the middle of a sentence.
+
+ ``` This is a block of code ``` 
+ Here is how you make [a link](https://www.wikipedia.org/). 
+ 
+ ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
